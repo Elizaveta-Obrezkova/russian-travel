@@ -4,19 +4,19 @@
   list-style: none;
 }
 
-@media screen and (max-width : 1200px) {
+@media screen and (max-width: 1200px) {
   .places {
     max-width: 928px;
   }
 }
 
-@media screen and (max-width : 940px) {
+@media screen and (max-width: 940px) {
   .places {
     max-width: 720px;
   }
 }
 
-@media screen and (max-width : 720px) {
+@media screen and (max-width: 720px) {
   .places {
     max-width: 100%;
   }
