@@ -1,0 +1,22 @@
+.place__link {
+  font-weight: 400;
+  font-family: 'Inter', Arial, sans-serif;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  font-size: 18px;
+  line-height: 1.22;
+  color: #FFF;
+  margin: 0;
+  padding: 0;
+  transition: opacity 1s ease;
+  text-decoration: none;
+  border-bottom: solid #FFF 1px;
+}
+
+.place__link:hover {
+  opacity: 0.8;
+}

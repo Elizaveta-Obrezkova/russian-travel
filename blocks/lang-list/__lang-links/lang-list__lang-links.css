@@ -1,0 +1,15 @@
+.lang-list__lang-links {
+  margin: 18px 18px 0 0;
+  padding: 0;
+  min-height: 28px;
+}
+
+.lang-list__lang-links:last-of-type {
+  margin-right: 0;
+}
+
+@media screen and (max-width : 720px) {
+  .lang-list__lang-links {
+    margin: 14px 18px 0 0;
+  }
+}
